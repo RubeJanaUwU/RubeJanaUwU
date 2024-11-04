@@ -1,0 +1,49 @@
+Ruben.M.P el padre de todos.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Todos los ejercicios
+		<main>
+
+	<header>
+		<div align="right">
+			<nav>
+		<a href="https://www.busqueda.com.uy/" target="_blank">Busqueda</a>
+		<a href="https://www.busqueda.com.uy/" target="_blank">Mercadona</a> 
+		<a href="https://www.busqueda.com.uy/" target="_blank">Perfil</a>
+	</nav>
+</div>
+	<div align="left">
+
+	<a href=https://www.busqueda.com.uy/ target="_blank">Horario<a>
+	<a href="https://www.busqueda.com.uy/" target="_blank">Frutas</a>
+	<a href="https://www.busqueda.com.uy/" target="_blank">Verduras</a>
+	<a href="https://www.busqueda.com.uy/" target="_blank">Carne</a>
+	<a href="https://www.busqueda.com.uy/" target="_blank">Dulces</a>
+</div>
+	</header>
+
+<section>
+<h2>Ejercicio 3</h2>
+<h2>Noticias que podrán cambiar España dentro de poco</h2>
+<h2>Noticias políticas</h2>
+<p>VOX encuentra una manera para detener la inmigracion ilegal</p>
+<h2>Noticias deportivas</h2>
+<p>Cucurella tiene pensado dejar el futbol para ser cantante</p>
+<h2>Ejercicio 4</h2>
+<strong>Bahorrina:</strong><p>agua <em>sucia</em> o estancada.</p>
+<strong>Munifiencia:</strong><p><i>la cualidad de ser muy generoso.</i></p>
+<strong>Talasófilo:</strong><p>amante del mar.</p>
+<h2>Ejercicio 5</h2>
+<p><strong><big>Eleuteromanía: </big></strong><strong><em>un gran deseo u obsesión por la libertad.</em></strong>
+<strong><big>Catártico: </big></strong><mark><b>proporcionar alivio psicológico mediante la liberación de emociones fuertes.</b></mark></p>
+<p><strong><big>Acatalepsia: </big></strong><mark><b>la idea de que es imposible comprender verdaderamente algo.</b></mark></p>
+<h2>Ejercicio 6</h2>
+
+
+
+</main>
+</body>
+</html>
